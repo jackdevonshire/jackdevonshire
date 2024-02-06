@@ -3,7 +3,7 @@
 Welcome to my Github Profile! I'm a Software Developer from the UK. I'm currently 🔭 working on ["Gaze Tracking in Python"](https://jackdevonshire.co.uk/portfolio-archive/gaze-detection/) and I'm also studying 🌱 towards my AWS Cerified Developer certification.
 
 ### Contact Me
-- [My Website](https://jackdevonshire.co.uk/)
+- [Website](https://jackdevonshire.co.uk/)
 - [LinkedIn](https://www.linkedin.com/in/jackdevonshire/)
 
 ## Latest Blog Posts
