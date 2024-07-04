@@ -1,6 +1,6 @@
 ### Hey, I'm Jack 👋
 
-Welcome to my Github Profile! I'm a Software Developer from the UK. I'm currently 🔭 working on ["Gaze Tracking in Python"](https://jackdevonshire.co.uk/portfolio-archive/gaze-detection/) and I'm also studying 🌱 towards my AWS Cerified Developer certification.
+Welcome to my Github Profile! I'm a Software Developer from the UK. I'm currently 🔭 working on a ["KSP Button Box"](https://github.com/jackdevonshire/Button-Box).
 
 ### Contact Me
 - [Website](https://jackdevonshire.co.uk/)
