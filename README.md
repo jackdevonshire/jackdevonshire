@@ -1,6 +1,6 @@
 ### Hey, I'm Jack 👋
 
-Welcome to my Github Profile! I'm a Software Developer from the UK. I'm currently 🔭 working on a ["KSP Button Box"](https://github.com/jackdevonshire/Button-Box).
+Welcome to my Github Profile! I'm a Software Developer from the UK and I'm currently 🔭 working on a ["KSP Button Box"](https://github.com/jackdevonshire/Button-Box).
 
 ### Contact Me
 - [Website](https://jackdevonshire.co.uk/)
