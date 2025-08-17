@@ -1,13 +1,12 @@
-### Hey, I'm Jack 👋
+# Hey, I'm Jack 👋
 
-Welcome to my Github Profile! I'm a Software Developer from the UK and I'm currently 🔭 working on a ["KSP Button Box"](https://github.com/jackdevonshire/Button-Box).
+Welcome to my GitHub profile! I'm currently a **DevOps Engineer at HSBC**, passionate about building scalable systems, optimizing workflows, and exploring creative ways to solve technical challenges.
 
-### Contact Me
-- [Website](https://jackdevonshire.co.uk/)
-- [LinkedIn](https://www.linkedin.com/in/jackdevonshire/)
+## 💻 About Me
+I specialize in **cloud engineering, backend development, and automation**, with experience across Python, Docker, CI/CD pipelines, and various DevOps practices. I enjoy turning complex problems into simple, efficient solutions and sharing my projects with the community.
 
-## Latest Blog Posts
-- [Virtually Free MC Hosting using AWS](https://jackdevonshire.co.uk/virtually-free-mc-bedrock-hosting-on-aws/)
-- [Kaizen Diary 2 - Journey to AWS Cloud Practitioner](https://jackdevonshire.co.uk/kaizen-diary-2-aws-ccp-journey/)
-- [Kaizen Diary 1 - Introduction](https://jackdevonshire.co.uk/kaizen-diary-1-introduction/)
-- [VPN? Money Sink!](https://jackdevonshire.co.uk/vpn-money-sink/)
+Check out my personal website for more info and a showcase of my work: [jackdevonshire.co.uk](https://jackdevonshire.co.uk/)
+
+## 🔗 Connect With Me
+- 🌐 [Website](https://jackdevonshire.co.uk/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jackdevonshire/)  
